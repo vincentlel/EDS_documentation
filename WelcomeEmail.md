@@ -1,3 +1,10 @@
+---
+layout: default
+title: Introduction
+nav_order: 2
+---
+
+
 # Welcome Email
 
 The EarthPlatform [Catalog UI](https://earthplatform.eds.earthdaily.com/catalog/signin) is a GUI for the STAC API and also provides visualization of STAC assets along with search and many other features whereby you can interact with the images. EarthPlatform also provides a STAC compliant API for querying and downloading geospatial data.
