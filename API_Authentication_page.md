@@ -1,11 +1,10 @@
----
-layout: default
-title: Introduction
-nav_order: 1
-nav_enabled: true
-has_children: true
----
 
+---
+layout: page
+title: page layout
+parent: Introduction
+nav_order: 4
+---
 
 
 # Table of contents

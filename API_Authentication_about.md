@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Introduction
-nav_order: 1
-nav_enabled: true
-has_children: true
+layout: about
+title: about layout
+parent: Introduction
+nav_order: 2
 ---
 
 
