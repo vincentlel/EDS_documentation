@@ -1,7 +1,6 @@
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-swagger-ui
 relative_links:
   enabled: true
   collections: true
