@@ -5,6 +5,9 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-redirect-from
+
+# https://stackoverflow.com/questions/31166747/jekyll-default-page
+
 relative_links:
   enabled: true
   collections: true
@@ -24,14 +27,14 @@ footer_content: "© 2024 Geosys Holdings ULC, an Antarctica Capital portfolio co
 search_enabled: true
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "https://raw.githubusercontent.com/earthdaily/Images/1fbde00d6ea7afdfa4f5a342caddb4a16fa66d9f/Corporate/favicon.svg"
+favicon_ico: "https://raw.githubusercontent.com/earthdaily/Images/main/Corporate/favicon/favicon.ico"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: nil
+color_scheme: dark
 
 callouts_level: quiet # or loud
 callouts:

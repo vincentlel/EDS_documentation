@@ -7,7 +7,7 @@ permalink: /
 redirect_from:
   - /API Authentication
 ---
-
+<!-- Redirect is used to set the page you want to have homepage -->
 
 # Table of contents
 * [Authentication](#authentication)
