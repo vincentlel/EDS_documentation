@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Welcome email
 nav_order: 2
 ---
 
