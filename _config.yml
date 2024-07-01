@@ -1,3 +1,15 @@
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: EDS Documentation
+description: EarthData Store documentation
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vincentlel.github.io/EDS_documentation" # the base hostname & protocol for your site, e.g. http://example.com
+repository: vincentlel/EDS_documentation # for github-metadata
+
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
