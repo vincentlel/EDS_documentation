@@ -1,9 +1,10 @@
 ---
-layout: minimal
-title: minimal layout
+layout: post
+title: post layout
 parent: Introduction
-nav_order: 1
+nav_order: 5
 ---
+
 
 
 # Table of contents
