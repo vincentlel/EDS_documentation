@@ -1,8 +1,8 @@
 ---
-layout: post
-title: home post
+layout: minimal
+title: minimal layout
 parent: Introduction
-nav_order: 1
+nav_order: 5
 ---
 
 
