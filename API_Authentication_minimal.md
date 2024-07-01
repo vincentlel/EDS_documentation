@@ -2,7 +2,7 @@
 layout: minimal
 title: minimal layout
 parent: Introduction
-nav_order: 5
+nav_order: 3
 ---
 
 

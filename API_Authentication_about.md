@@ -2,7 +2,7 @@
 layout: about
 title: about layout
 parent: Introduction
-nav_order: 2
+nav_order: 1
 ---
 
 
