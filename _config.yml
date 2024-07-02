@@ -10,6 +10,8 @@ plugins:
 
 permalink: pretty
 
+url: "https://vincentlel.github.io/EDS_documentation/" # the base hostname & protocol for your site, e.g. http://example.com
+
 # For copy button on code
 enable_copy_code_button: true
 
