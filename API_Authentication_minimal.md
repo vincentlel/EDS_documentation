@@ -2,7 +2,8 @@
 layout: default
 title: Minimal
 nav_order: 1
-Parent: Introduction
+parent: Introduction
+has_children: true
 ---
 
 # Table of contents
