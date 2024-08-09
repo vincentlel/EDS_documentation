@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: Minimal
+nav_order: 1
+has_children: true
+Parent: Introduction
+---
 
 # Table of contents
 * [Authentication](#authentication)
