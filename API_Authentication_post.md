@@ -1,5 +1,13 @@
 
 
+---
+layout: default
+title: post
+nav_order: 1
+has_children: true
+grand_parent: Introduction
+parent: Minimal
+---
 
 # Table of contents
 * [Authentication](#authentication)
