@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: post layout
 parent: Introduction
 nav_order: 1
