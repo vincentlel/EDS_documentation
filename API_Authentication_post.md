@@ -1,7 +1,7 @@
 ---
 layout: default
 title: post layout
-parent: Introduction
+parent: minimal layout
 nav_order: 1
 ---
 
