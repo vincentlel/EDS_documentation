@@ -2,7 +2,7 @@
 layout: post
 title: post layout
 parent: Introduction
-nav_order: 5
+nav_order: 1
 ---
 
 
