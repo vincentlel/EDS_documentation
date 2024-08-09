@@ -1,9 +1,3 @@
----
-layout: default
-title: post layout
-parent: minimal layout
-nav_order: 2
----
 
 
 
