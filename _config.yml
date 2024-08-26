@@ -5,6 +5,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-shields_io
 
 # Set the homepage https://stackoverflow.com/questions/31166747/jekyll-default-page
 
