@@ -14,3 +14,12 @@ To get started, login to [Account Management](https://earthplatform.eds.earthdai
 ![Welcome Email](../Images/STAC%20API/Welcome%20Email.png) 
 
 You will need to change your password at the first login.
+
+{%- shields_io {
+  "label": "Find me on",
+  "message": "GitHub",
+  "color": "181717",
+  "style": "flat",
+  "logo": "github",
+}
+-%}
