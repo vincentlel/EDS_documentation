@@ -15,6 +15,15 @@ nav_order: 1
 
 </br>
 
+{%- shields_io {
+  "label": "Find me on",
+  "message": "GitHub",
+  "color": "181717",
+  "style": "flat",
+  "logo": "github",
+}
+-%}
+
 ## Authentication
 
 
