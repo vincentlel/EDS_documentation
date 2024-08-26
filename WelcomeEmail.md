@@ -17,5 +17,5 @@ You will need to change your password at the first login.
 
 ![](https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray)
 
-!()[https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin]
+![](https://img.shields.io/badge/-LinkedIn-black.svg?style=social&logo=linkedin)
 
