@@ -1,6 +1,8 @@
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-shields_io
+  
 relative_links:
   enabled: true
   collections: true
@@ -35,10 +37,6 @@ gh_edit_branch: "gh-pages" # the branch that your docs is served from
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-swagger-ui
 
 # Enable or disable the site search
 # Supports true (default) or false
