@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Introduction
+title: post
 nav_order: 1
-has_children: true
-permalink: /
-redirect_from:
-  - /API Authentication
+grand_parent: Introduction
+parent: Minimal
 ---
-<!-- Redirect is used to set the page you want to have homepage -->
 
 # Table of contents
 * [Authentication](#authentication)
